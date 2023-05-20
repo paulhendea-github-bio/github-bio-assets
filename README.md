@@ -1,1 +1,1 @@
-# assets
+# assets for github-bio app
